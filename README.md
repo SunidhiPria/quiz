@@ -18,7 +18,7 @@ This Quiz Website is one of the prominent websites I made. This website is desig
 - Different Sections
    - Practice Section designed to host practice questions.
    - Leaderboard Section designed to host top performing players (not functional now).
-   - Live Quiz section to let the club conduct live quizzes from its own website (not functional now).
+   - Live Quiz section to conduct live quizzes from its own website (not functional now).
    - Login and signup for users.
 
 ## Practice Section
